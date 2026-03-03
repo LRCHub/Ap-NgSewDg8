@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "青梅",
+  "base_artist": "CreepHyp",
+  "createdAt": "2026-03-03T07:59:09.295921Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "青梅 - Aoume",
+      "artist": "CreepHyp",
+      "has_synced": true,
+      "path": "select/01_青梅_-_Aoume_CreepHyp.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青梅",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_青梅_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "青梅",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_02_青梅_クリープハイプ.txt"
+    }
+  ]
+}
